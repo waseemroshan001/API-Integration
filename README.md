@@ -314,7 +314,13 @@ If you encounter any issues or have questions:
 4. **Join our community** for discussions and help
 
 ---
+OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/78bb40ea-4aaf-4b41-8661-979d2480b213" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5bd976f5-e766-4d52-ada4-3db90f605027" />
 
 **Made with ❤️ for learning API integration and modern web development**
 
 Happy coding! 🚀
+
+
