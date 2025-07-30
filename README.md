@@ -1,5 +1,16 @@
 # API-Integration 
 
+## COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SYED WASEEM ROSHAN
+
+INTERN ID: CT06DH1678
+
+DOMAIN: Full Stack Web Development
+
+DURATION: 6 WEEEKS
+
+MENTOR:NEELA SANTOSH
 # 🌤️ Weather Dashboard
 
 A modern, responsive weather application that demonstrates API integration with real-time weather data fetching and display.
